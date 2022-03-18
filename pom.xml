@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.cyrandote</groupId>
 	<artifactId>blueprint</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>blueprint</name>
 	<description>T-shirt design templates</description>
 	<properties>
@@ -97,7 +97,7 @@
 	</build>
 	<scm>
 		<developerConnection>scm:git:https://github.com/TapaKing/blueprint.git</developerConnection>
-	  <tag>blueprint-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
